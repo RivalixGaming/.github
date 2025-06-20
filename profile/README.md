@@ -62,7 +62,7 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 
 ### 🗣️ 2.4. O Slogan
 
-> 🎯 *“Criada por jogadores, movida por paixão e feita para a comunidade.”*
+> 🎯 *“Conectando campeões.”*
 
 ### 🌈 2.5. As Cores
 
@@ -78,7 +78,7 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 
 ## 🧭 3. Missão, Visão e Valores
 
-- 🎯 **Missão:** Estruturar e dar visibilidade aos jogos de luta no Brasil com torneios acessíveis e bem organizados.  
+- 🎯 **Missão:** Estruturar e dar visibilidade aos jogos de luta no Brasil com torneios acessíveis e bem estruturados.  
 - 👁️ **Visão:** Ser referência nacional em E-sports, crescendo com a comunidade.  
 - 🧩 **Valores:**  
   - 💡 Inovação contínua  
