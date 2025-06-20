@@ -101,9 +101,9 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 1. 🤝 **Parcerias com marcas:** publicidade segmentada.  
 2. 🛒 **Marketplace interno:** comissão em produtos/torneios.  
 3. 🧾 **Planos de assinatura:**  
-   - 🆓 **Gratuito:** torneios ilimitados (até 500 pessoas), taxa em pagos, limite de uploads.  
-   - 💎 **Plus:** sem anúncios, moedas diárias, acesso antecipado, suporte prioritário, gestão de treino e coaching.
-
+   - **Gratuito:** torneios ilimitados (até 500 pessoas), taxa em pagos, limite de uploads.
+   - **Plus:** sem anúncios, moedas diárias, acesso antecipado, suporte prioritário, gestão de treino e coaching.
+   - **Pro** 
 ---
 
 ## 🏆 6. Diferencial Competitivo
@@ -117,7 +117,7 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 ## 🔮 7. Projeções para o Futuro
 
 - 🕹️ **Curto prazo:** foco nos jogos de luta.  
-- 🌐 **Longo prazo:** expansão para FPS, MOBA e Battle Royale; rede social, moeda digital e internacionalização.
+- 🌐 **Longo prazo:** Feramentas de I.A para análise de desempenho e criação de relatórios personalizados, sistema de coaching com jogadores profissioanis expansão para outros genêneros competitivos; rede social robusta, moeda digital e internacionalização.
 
 ---
 
