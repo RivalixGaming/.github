@@ -103,7 +103,7 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 3. 🧾 **Planos de assinatura:**  
    - **Gratuito:** torneios ilimitados (até 500 pessoas), taxa em pagos, limite de uploads.
    - **Plus:** sem anúncios, moedas diárias, acesso antecipado, suporte prioritário, gestão de treino e coaching.
-   - **Pro** 
+   - **Pro** ferramentas de gestão de treino, coaching e videoaulas com profissionais.
 ---
 
 ## 🏆 6. Diferencial Competitivo
