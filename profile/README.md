@@ -116,8 +116,7 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 
 ## 🔮 7. Projeções para o Futuro
 
-- 🕹️ **Curto prazo:** foco nos jogos de luta.  
-- 🌐 **Longo prazo:** Feramentas de I.A para análise de desempenho e criação de relatórios personalizados, sistema de coaching com jogadores profissioanis expansão para outros genêneros competitivos; rede social robusta, moeda digital e internacionalização.
+- Feramentas de I.A para análise de desempenho e criação de relatórios personalizados, sistema de coaching com jogadores profissioanis expansão para outros genêneros competitivos; rede social robusta, moeda digital e internacionalização.
 
 ---
 
