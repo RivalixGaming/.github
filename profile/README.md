@@ -24,7 +24,8 @@
 - [5. Métodos de Monetização](#💰-5-métodos-de-monetização)
 - [6. Diferencial Competitivo](#🏆-6-diferencial-competitivo)
 - [7. Projeções para o Futuro](#🔮-7-projeções-para-o-futuro)
-- [8. Bibliografia](#📚-8-bibliografia)
+- [8. Documentação](#📄-8-documentação-do-projeto)
+- [9. Bibliografia](#📚-8-bibliografia)
 
 ---
 
@@ -119,8 +120,11 @@ Rivalix é uma **plataforma de gerenciamento de torneios** focada em jogos de lu
 - Feramentas de I.A para análise de desempenho e criação de relatórios personalizados, sistema de coaching com jogadores profissioanis expansão para outros genêneros competitivos; rede social robusta, moeda digital e internacionalização.
 
 ---
+## 📄 8. Documentação do Projeto
 
-## 📚 8. Bibliografia
+- Link para Arquitetura Escalável: https://www.notion.so/System-Design-2221217d39c980d1ba08cd091dfee573?source=copy_link
+  
+## 📚 9. Bibliografia
 
 - MORDOR INTELLIGENCE. *Esports Market*.  
 - THE BUSINESS RESEARCH COMPANY. *E-sports Global Market Report 2025*.  
